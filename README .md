@@ -1,7 +1,7 @@
 # Breast Cancer Diagnosis using Statistical Neural Networks
 
-This project implements three statistical neural network models exactly as described in the paper:
-**"Breast Cancer Diagnosis Using Statistical Neural Networks" (2004)**, using the provided
+This project implements three statistical neural network models:
+**"Breast Cancer Diagnosis Using Statistical Neural Networks", using the provided
 Wisconsin Breast Cancer Diagnostic (WBCD) dataset.
 
 ## Models Implemented
@@ -58,4 +58,5 @@ At the end, a summary table compares accuracies of all models.
 ## Paper Reference
 Tüba KIYAN, Tülay YILDIRIM, *Breast Cancer Diagnosis Using Statistical Neural Networks*,
 Istanbul University – Journal of Electrical & Electronics Engineering, 2004.
+
 
