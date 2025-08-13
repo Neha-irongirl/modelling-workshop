@@ -4,7 +4,6 @@ This project implements three statistical neural network models:
 **"Breast Cancer Diagnosis Using Statistical Neural Networks", using the provided
 Wisconsin Breast Cancer Diagnostic (WBCD) dataset.
 
-## Models Implemented
 
 ### 1. Radial Basis Function Network (RBF)
 - Spread parameter: **4.4**
